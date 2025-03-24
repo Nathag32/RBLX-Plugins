@@ -1,0 +1,80 @@
+[1]
+Name: Interface Tools
+Price: R$799
+[2]
+Name: Moon Animator 2
+Price: R$1700
+[3]
+Name: Wall Creator
+Price: R$100
+[4]
+Name: Tool Grip Editor
+Price: R$100
+[5]
+Name: NPC Pathfinding Maker
+Price: R$100
+[6]
+Name: Animated Textures
+Price: R$100
+[7]
+Name: Pick Pro - quick instance selection
+Price: R$250
+[8]
+Name: GroupBan [Ban Groups Easily]
+Price: R$100
+[9]
+Name: Material Icons
+Price: R$100
+[10]
+Name: RbxMusic
+Price: R$120
+[11]
+Name: InCommand - versatile, adaptable command execution
+Price: R$125
+[12]
+Name: Context Tools Plugin
+Price: R$100
+[13]
+Name: AutoScale Plus
+Price: R$100
+[14]
+Name: Atmos - professional skyboxes and lighting
+Price: R$150
+[15]
+Name: Team Create with Hats
+Price: R$250
+[16]
+Name: Words of Encouragement V2
+Price: R$100
+[17]
+Name: Load Character Pro
+Price: R$100
+[18]
+Name: Tree Generator
+Price: R$100
+[19]
+Name: RigEdit Plus
+Price: R$100
+[20]
+Name: Custom Terrain Importer
+Price: R$100
+[21]
+Name: uiDesign Plus
+Price: R$150
+[22]
+Name: Quenty's Class Converter (API based)
+Price: R$100
+[23]
+Name: DataStore Editor
+Price: R$100
+[24]
+Name: Codify - Convert Anything to Code
+Price: R$999
+[25]
+Name: Team Create with Hats
+Price: R$250
+[26]
+Name: Benchmarker
+Price: 5$ (on itch.io)
+
+Total Worth: 5044R$ + 5$
